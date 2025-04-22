@@ -40,7 +40,7 @@ export const intro = {
     },
     {
       title: "Download My Resume",
-      link: "https://drive.google.com/uc?export=download&id=1f9zInrg_bZbTsQnq0DPB8dNJ4DUrf-ZG",
+      link: "https://drive.google.com/uc?export=download&id=1xMDt0MzFyExHgSXCbSw-U5HOoKNHWM6u",
       isPrimary: false,
     },
   ],
@@ -179,4 +179,3 @@ export const links = {
     },
   ],
 };
-

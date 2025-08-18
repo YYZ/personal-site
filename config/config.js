@@ -106,7 +106,7 @@ export const projects = {
       icons: [
         {
           icon: faExternalLinkSquareAlt,
-          link: "https://www.makethatapodacst.com",
+          link: "https://www.makethatapodcast.com",
         },
       ],
     },

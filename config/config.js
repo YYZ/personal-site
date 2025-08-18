@@ -100,6 +100,39 @@ export const projects = {
       ],
     },
     {
+      title: "MakeThatAPodcast!",
+      description:
+        "MakeThatAPodcast is Chrome + Firefox extension that allows you to create a podast from any webpage!",
+      icons: [
+        {
+          icon: faExternalLinkSquareAlt,
+          link: "https://www.makethatapodacst.com",
+        },
+      ],
+    },
+    {
+      title: "Tremendous Tools",
+      description:
+        "A free collection of privacy focused, 100% browser based tools and utilities.",
+      icons: [
+        {
+          icon: faExternalLinkSquareAlt,
+          link: "https://tremendous.tools",
+        },
+      ],
+    },
+    {
+      title: "Award Shelf",
+      description:
+        "Explore thousands of books that have been nominated for or won the world's most prestigious literary awards.",
+      icons: [
+        {
+          icon: faExternalLinkSquareAlt,
+          link: "https://awardshelf.com",
+        },
+      ],
+    },
+    {
       title: "Bryq",
       description:
         "Bryq is a leading talent intelligence solution based on soft skills. I worked on developing the Bryq App and API, building new features and integrations to external partners.",

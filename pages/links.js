@@ -18,7 +18,7 @@ export default function Home() {
             width="150"
             height="150"
             src={links.image}
-            alt="profile of hashirshoaeb"
+            alt="profile of Sam Halligan"
           />
           <h3 className="mt-3">{links.title}</h3>
           <p>{links.description}</p>

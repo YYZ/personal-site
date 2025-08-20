@@ -210,5 +210,17 @@ export const links = {
       title: "My LinkedIn",
       link: "https://www.linkedin.com/in/samhalligan/",
     },
+    {
+      title: "MakeThatAPodcast!",
+      link: "https://www.makethatapodcast.com",
+    },
+    {
+      title: "Tremendous Tools",
+      link: "https://tremendous.tools",
+    },
+    {
+      title: "Award Shelf",
+      link: "https://awardshelf.com",
+    },
   ],
 };
